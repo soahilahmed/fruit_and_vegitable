@@ -1,3 +1,4 @@
+tensorflow
 Fastapi
 uvicorn
 streamlit
